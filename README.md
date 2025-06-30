@@ -1,7 +1,14 @@
-# 👋 Hello there! Welcome to my GitHub Profile
+# 😎 Welcome to my GitHub!
+## 👋 Hi, I'm Shohibun Najam Ilma!
 
-I'm **Shohibun Najam Ilma**, a passionate Frontend Developer from 🇮🇩 Indonesia.  
-I enjoy turning beautiful UI designs into responsive and interactive web apps.
+I'm a **Frontend Web Developer** with over **1+ years of experience** in building responsive and user-friendly websites.
+
+🔧 **Experience**  
+- Interned as a **Frontend Web Developer** at **PT. Central AI**, focusing on UI implementation, frontend logic, and optimization.  
+- Graduated from the **Frontend JavaScript Bootcamp** at **Binar Academy**, mastering JavaScript fundamentals and React framework.  
+- Completed the **Fullstack Web Developer Bootcamp** from **SIM-K HariSenin**, gaining practical knowledge in both frontend and backend development.
+
+💡 I'm passionate about transforming UI/UX designs into clean, maintainable, and scalable web interfaces. I enjoy learning new tools and staying up to date with modern development workflows.
 
 ---
 
@@ -27,9 +34,9 @@ I enjoy turning beautiful UI designs into responsive and interactive web apps.
 
 ## 📊 GitHub Stats
 
-![Shohibun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShohibunIlma&show_icons=true&theme=tokyonight&hide_title=true)
+![Shohibun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shohibun&show_icons=true&theme=tokyonight&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShohibunIlma&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohibun&layout=compact&theme=tokyonight)
 
 ---
 

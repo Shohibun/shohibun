@@ -44,7 +44,7 @@ I'm a **Frontend Web Developer** with over **1+ years of experience** in buildin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohibun-najam-ilma-ab481b20b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shohibun.najam/)
-
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/Shohibun)
 
 
 <!--

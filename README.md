@@ -25,6 +25,7 @@ I'm a **Frontend Web Developer** with over **1+ years of experience** in buildin
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Flowbite-3B82F6?style=flat&logo=flowbite&logoColor=white" />
   <img src="https://img.shields.io/badge/ShadCN UI-blueviolet?style=flat" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
 </p>

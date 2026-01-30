@@ -34,7 +34,7 @@ I'm a **Frontend Web Developer** with over **1+ years of experience** in buildin
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shohibun&show_icons=true&theme=tokyonight)
+![Shohibun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shohibun&show_icons=true&theme=tokyonight&hide_title=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohibun&layout=compact&theme=tokyonight) 
 ---

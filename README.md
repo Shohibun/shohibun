@@ -1,23 +1,30 @@
 <div align="center">
 
-# Hi, I'm Shohibun Najam Ilma 👋
+<a href="https://portfolio-shohibun.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Hi%2C+I'm+Shohibun+Najam+Ilma;Software+Developer;Web+%7C+Mobile+%7C+Desktop;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
+</a>
 
-### Frontend Developer | React & Next.js
+### Software Developer | Web • Mobile • Desktop
 
-I build modern, responsive, and user-friendly web applications
-with a focus on clean UI, maintainable code, and great user experiences.
+Building modern digital experiences through clean interfaces,
+thoughtful interactions, and maintainable code.
 
 <br />
 
 <a href="https://portfolio-shohibun.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-2563EB?style=for-the-badge" alt="Portfolio" />
 </a>
 <a href="https://github.com/shohibun">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/shohibun-najam-ilma-ab481b20b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=shohibun&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -25,191 +32,156 @@ with a focus on clean UI, maintainable code, and great user experiences.
 
 ## 👨‍💻 About Me
 
-I'm a Frontend Developer passionate about building modern web applications
-that combine thoughtful design, responsive layouts, and reliable functionality.
+I'm a software developer with a strong focus on **frontend development**,
+building responsive and interactive applications across web, mobile,
+and desktop platforms.
 
-My primary focus is **React and Next.js**, where I turn UI/UX designs
-and business requirements into interactive, accessible, and maintainable
-web experiences.
+My journey began with frontend web development, where I developed my
+expertise in transforming UI/UX designs into functional, user-friendly
+interfaces. Today, I continue to expand my skills across multiple
+frameworks and platforms while maintaining a strong focus on frontend
+engineering and user experience.
 
-Over time, I've expanded my development experience into mobile and desktop
-applications, allowing me to understand different platforms and contribute
-to a broader range of software projects.
+- 🎨 **Frontend Development:** Building responsive, reusable, and interactive user interfaces.
+- 🌐 **Web Development:** Developing modern applications with React, Next.js, Vue, and SvelteKit.
+- 📱 **Mobile Development:** Building cross-platform applications with Flutter.
+- 🖥️ **Desktop Development:** Exploring cross-platform desktop applications with Electron and Tauri.
+- 🔌 **API Integration:** Connecting frontend applications to backend services and REST APIs.
+- ✨ **UI & Animation:** Creating engaging interfaces with modern styling and animation tools.
+- 🚀 **Deployment & Workflow:** Using Git, GitHub, Vercel, and Netlify.
 
-- 💻 **Primary Focus:** Frontend Web Development
-- ⚛️ **Core Technologies:** React, Next.js, JavaScript, and TypeScript
-- 🎨 **UI Development:** Responsive Design, Tailwind CSS, and Component-Based Architecture
-- 🔌 **Application Integration:** REST APIs, authentication flows, and backend integration
-- 📱 **Additional Experience:** Flutter and cross-platform mobile development
-- 🖥️ **Exploring:** Desktop application development with Electron and Tauri
-- 🚀 **Deployment:** Vercel, Netlify, Git, and GitHub
-
-I enjoy learning new technologies, improving development workflows,
-and building interfaces that make complex tasks feel simple.
+I enjoy exploring new technologies, improving development workflows,
+and creating digital products that balance functionality, usability,
+and visual quality.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💻 Tech Stack & Tools
 
-### Frontend Development
+### 🌐 Web Development
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,svelte" alt="Web Development Skills" />
 </p>
 
-### UI & Animation
+### 🎨 UI, Styling & Animation
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/AOS-4A90E2?style=flat-square" alt="Animate On Scroll" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" alt="UI and Styling Skills" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=lottiefiles&logoColor=white" alt="Lottie" />
+  <img src="https://img.shields.io/badge/AOS-4A90E2?style=for-the-badge" alt="Animate On Scroll" />
 </p>
 
-### Mobile & Desktop Development
+### 📱 Mobile Development
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri" />
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Development Skills" />
 </p>
 
-### API, Backend Integration & Database
+### 🖥️ Desktop Development
 
-<p align="left">
-  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+<p>
+  <img src="https://skillicons.dev/icons?i=electron,tauri" alt="Desktop Development Skills" />
 </p>
 
-### Development Tools & Deployment
+### 🔌 API Integration & Additional Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask" alt="Python and Flask" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+### 🛠️ Development Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Development Tools" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🏢 Professional Experience
 
-Here are some of the projects I've worked on, showcasing my experience
-in frontend development and building modern digital applications.
+### Frontend-Focused Full Stack Developer — Senyum Media Group
 
-### 💍 Wedding Invitation Platform
+Working as a Full Stack Developer with a primary focus on frontend
+development and user interface implementation.
 
-A modern digital wedding invitation platform featuring customizable
-invitation templates and interactive wedding websites.
+My work focuses on translating business requirements and UI/UX designs
+into functional web interfaces, building reusable components, and
+integrating frontend applications with backend services.
 
-**Highlights**
-- Reusable UI components and configurable invitation templates.
-- Responsive layouts for desktop and mobile devices.
-- Interactive sections, animations, and visual storytelling.
-- Integration with database and storage services.
+**Primary Focus**
+- Frontend development and UI implementation.
+- Component-based application development.
+- Responsive and user-friendly interfaces.
+- API integration.
+- Collaboration within application development workflows.
 
-**Tech Stack:** Next.js · React · TypeScript · Tailwind CSS · Supabase
+### Frontend Web Developer Intern — PT. Central AI
 
-🔗 **Live Demo:** [Wedding Invitation](https://wedding-invitation-brown-two-54.vercel.app/)
-
----
-
-### 🏥 Medora — Clinic & Pharmacy Management System
-
-A web-based business application concept for clinic and pharmacy operations,
-with an emphasis on usability and efficient workflows.
-
-**Highlights**
-- Dashboard and business-oriented interface design.
-- Reusable components for management pages.
-- Responsive layouts for operational workflows.
-- A scalable foundation for additional business features.
-
-**Tech Stack:** Next.js · React · TypeScript · Tailwind CSS
+Gained practical experience in frontend development, including UI
+implementation, frontend logic, and interface optimization.
 
 ---
 
-### 📱 E-LazisMU Mobile Application
+## 🎓 Education & Training
 
-A mobile application project supporting digital services related to
-zakat, infaq, sedekah, and qurban.
-
-**Highlights**
-- Cross-platform mobile application development.
-- User interface implementation.
-- State management with Riverpod.
-- Integration with backend APIs.
-
-**Tech Stack:** Flutter · Dart · Riverpod · REST API
+- 🎓 **Frontend JavaScript Bootcamp** — Binar Academy
+- 🎓 **Fullstack Web Developer Bootcamp** — SIM-K HariSenin
 
 ---
 
-> Some projects may be ongoing or maintained in private repositories.
-> Project descriptions reflect their respective scope and development status.
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shohibun&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="Shohibun's GitHub Stats" />
+<a href="https://github.com/shohibun">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shohibun&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shohibun's GitHub Statistics" />
+</a>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohibun&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<a href="https://github.com/shohibun">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohibun&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</a>
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=shohibun&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
 
-## 🎓 Professional Background
-
-- **Frontend Web Developer Intern** — PT. Central AI
-- **Frontend JavaScript Bootcamp Graduate** — Binar Academy
-- **Fullstack Web Developer Bootcamp Graduate** — SIM-K HariSenin
-
-My professional foundation is in frontend development, with continued
-learning and hands-on experience in modern web technologies.
-
----
-
 ## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, collaborating on
-meaningful projects, and exploring new opportunities in frontend development.
-
-<p align="left">
-  <a href="https://portfolio-shohibun.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/shohibun-najam-ilma-ab481b20b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/shohibun.najam/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://gitlab.com/shohibunnajam">
-    <img src="https://img.shields.io/badge/GitLab-Visit-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>
-</p>
-
----
 
 <div align="center">
 
-**Thanks for visiting my profile!** ⭐
+I'm open to connecting with developers, collaborating on interesting
+projects, and exploring new opportunities in software development.
 
-*Designing better interfaces. Building better experiences.*
+<br />
+
+<a href="https://portfolio-shohibun.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/shohibun-najam-ilma-ab481b20b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/shohibun.najam/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://gitlab.com/shohibunnajam">
+  <img src="https://img.shields.io/badge/GitLab-Visit-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+</a>
+
+<br />
+<br />
+
+### ✨ Building interfaces. Creating experiences. Bringing ideas to life.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=120&section=footer" width="100%" alt="Animated Footer" />
 
 </div>

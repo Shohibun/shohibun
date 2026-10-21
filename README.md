@@ -1,21 +1,21 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=200&section=header&text=Shohibun%20Najam%20Ilma&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Desktop&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Shohibun Najam Ilma — Software Developer" />
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Building+Modern+Web+Applications;Developing+Cross-Platform+Mobile+Apps;Exploring+Desktop+Application+Development;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
-</a>
-<br />
-<p>
-  <a href="https://portfolio-shohibun.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=200&section=header&text=Shohibun%20Najam%20Ilma&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Desktop&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Shohibun Najam Ilma — Software Developer" />
+  <a href="https://readme-typing-svg.demolab.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Building+Modern+Web+Applications;Developing+Cross-Platform+Mobile+Apps;Exploring+Desktop+Application+Development;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/shohibun">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/shohibun-najam-ilma-ab481b20b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-<img src="https://komarev.com/ghpvc/?username=shohibun&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br />
+  <p>
+    <a href="https://portfolio-shohibun.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/shohibun">
+      <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/shohibun-najam-ilma-ab481b20b/">
+      <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+  <img src="https://viewcounter.live/shohibun?label=PROFILE%20VIEWS&bg_color=2563EB&text_color=FFFFFF&rounded=true" alt="Profile Views" />
 </div>
 
 ⸻
@@ -148,10 +148,10 @@ Technologies: React · Next.js · Python · Flask
   <img src="https://img.shields.io/badge/Visit_Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Central AI Website" />
 </a>
 <div align="center">
-<br />
-<a href="https://portfolio-shohibun.vercel.app/">
-  <img src="https://img.shields.io/badge/Explore_More_Projects-Visit_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore More Projects" />
-</a>
+  <br />
+  <a href="https://portfolio-shohibun.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore_More_Projects-Visit_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore More Projects" />
+  </a>
 </div>
 
 ⸻
@@ -178,16 +178,14 @@ Bachelor of Informatics — University of Jember
 📊 GitHub Analytics
 
 <div align="center">
-<a href="https://github.com/shohibun">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shohibun&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shohibun's GitHub Statistics" />
-</a>
-<a href="https://github.com/shohibun">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohibun&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</a>
-<br />
-<img src="https://streak-stats.demolab.com?user=shohibun&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-<br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shohibun&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph" />
+  <a href="https://github.com/shohibun">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=shohibun&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shohibun's GitHub Statistics" />
+  </a>
+  <a href="https://github.com/shohibun">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohibun&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  </a>
+  <br />
+  <img src="https://streak-stats.demolab.com?user=shohibun&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </div>
 
 ⸻

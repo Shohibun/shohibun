@@ -15,7 +15,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
-  <img src="https://viewcounter.live/shohibun?label=PROFILE%20VIEWS&bg_color=2563EB&text_color=FFFFFF&rounded=true" alt="Profile Views" />
 </div>
 
 ⸻

@@ -88,7 +88,7 @@ I enjoy exploring new technologies, solving practical problems, and building dig
 
 💼 Professional Experience
 
-Full Stack Developer — PT. Senyum Media Utama
+Full Stack Developer — Senyum Media Group
 
 2026 — Present
 
